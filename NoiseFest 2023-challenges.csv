@@ -1,0 +1,26 @@
+id,name,description,connection_info,next_id,value,category
+2,we have a very serious request,"Please please for bonus points find us the actual pcap files that Mike Lindell showed off in his ill-fated cybersecurity summit
+
+Email it to labs@greynoise.io for us to award you the points.",,,1000,very important category
+3,boot option one,How many times do we use the singular word “threat” in our Enhancing Threat Detection blog post?,,,10,greynoise 101
+4,soapy,What is the argument passed to the dropped binary?,,,250,pcap or it didn't happen
+5,fullsignature,"A recent vulnerability hype cycle left it’s signature on the internet, but what’s the full name on the dissector needed to see it?",,,250,pcap or it didn't happen
+6,trivial,what binary is used to exfiltrate data?,,,100,making friends with pcap
+7,wrapper,what is the source reference?,,,250,pcap or it didn't happen
+8,oh-gnl,What key will the result of the OGNL injection be populated into?,,,250,pcap or it didn't happen
+9,gitislegit,Somebody is crawling for git repos!  What system are they using to do so?,,6,150,pcap or it didn't happen
+10,powershell,pop shell raise hell.  What URL did they try to download their shell from?,,,100,making friends with pcap
+11,common pfsense,Somebody is trying to scan for CVE-2022-31814!  What’s the name of the host they’re scanning from?,,,50,pcap 101
+12,big sip,Someone is trying to do LFI on our 3CX management console!  What’s their user agent?,,,50,pcap 101
+13,fortinet,There are two primary components that are required to exploit this vulnerability. Sum the RFC’s that define them.,,,200,pcap or it didn't happen
+14,antiwork,Somebody is scanning for printers!  What does the payload say?,,,200,pcap or it didn't happen
+15,2022,Please find one of the vulns from our 2022 vulnerability report.,,,100,making friends with pcap
+16,moooooodbus,Who said cows can’t inspect network traffic? Please multiply the number of o’s in the source IP’s rDNS by the function index of the query.,,,150,pcap or it didn't happen
+17,owa,Which CVE is this request checking for the presence of?,,,100,making friends with pcap
+18,xeet,"[https://twitter.com/intent/tweet?text=I'm scoring bonus points in the @GreyNoiseIO NoiseFest CTF https://noisefest.ctfd.io/ but I'm required to admit that Xeeting actually does sound cooler than Tweeting](https://twitter.com/intent/tweet?text=I%27m%20scoring%20bonus%20points%20in%20the%20@GreyNoiseIO%20NoiseFest%20CTF%20https://noisefest.ctfd.io/%20but%20I%27m%20required%20to%20admit%20that%20Xeeting%20actually%20does%20sound%20cooler%20than%20Tweeting)
+
+We’re not gonna force you to Tweet that, but it would be pretty cool if you did.  The flag is just ""xeeter"".",,,25,very important category
+19,sigabrt,Which recent CVE is observed within this payload?,,,200,pcap or it didn't happen
+20,aspx,What command will be run when this webshell is triggered?,,,250,pcap or it didn't happen
+21,do you speak pcap?,What do you think is happening here? ,,,25,pcap 101
+22,cry,"It’s XSS, how hard can that be? Just get the flag. It’s right there.",,,350,very important category
